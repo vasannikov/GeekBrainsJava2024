@@ -1,4 +1,4 @@
-# Задание: Описание классов Doctor и Nurse, интерфейсов Goable, Flyable, Swimable
+# Задание 2 (11.02.2024): Описание классов Doctor и Nurse, интерфейсов Goable, Flyable, Swimable
 
 ## Описание классов Doctor и Nurse
 
